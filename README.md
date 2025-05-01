@@ -1,7 +1,7 @@
 ![Trusted](https://img.shields.io/badge/Trusted-100%25-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Downloads](https://img.shields.io/badge/Downloads-1M%2B-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Release](https://img.shields.io/badge/Release-2025-orange?style=plastic&labelColor=lightgrey&color=orange)  
 <a href="https://github.com/Lumion-12/AutoTune2025VocalHub/watchers"><img src="https://img.shields.io/github/watchers/Lumion-12/AutoTune2025VocalHub?style=social&label=Watch"></a>
 
-# 🎙️ AutoTune2025VocalHub
+# 🎙️ AutoTune 2025 Vocal Hub
 
 🎶 Elevate your vocal production with Auto-Tune 2025 VocalHub! This repository provides tutorials, resources, and best practices for music creators to enhance their audio projects in 2025.
 
